@@ -30,6 +30,6 @@ public class Main {
 
         drugStore.withdrawDrugsPrice(client,prescription);
 
-        System.out.println("hi");
+        System.out.println("bye");
     }
 }
