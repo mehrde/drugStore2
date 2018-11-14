@@ -1,4 +1,4 @@
-package com.mftvanak.j2se.alizadeh.drugStore;
+package com.mehrde.DrugStore2;
 
 public class Main {
     public static void main(String[] args) {
